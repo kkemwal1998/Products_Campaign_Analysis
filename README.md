@@ -1,5 +1,7 @@
 Project Name: Media Campaign Analysis 
 
+Advertisement Chanel: Meta Ads
+
 Project Overview: 
 This project includes datasets based on the advertisment campaigns that has been run on the CPG products from Walmart. There are two data sources: Facebook Data and Site Data, each of which are vital to telling the complete picture of campaign performance. 
 
