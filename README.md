@@ -5,7 +5,7 @@ Advertisement Chanel: Meta Ads
 Project Overview: 
 This project includes datasets based on the advertisment campaigns that has been run on the CPG products from Walmart. There are two data sources: Facebook Data and Site Data, each of which are vital to telling the complete picture of campaign performance. 
 
-Tools: Excel( Pivot Tables, V-lookUp, 
+Tools: Excel( Pivot Tables, V-lookUp, Idex-Match)
 
 Organisation : Vayner Media LLC
 
